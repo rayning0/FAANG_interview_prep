@@ -1,0 +1,36 @@
+Hi Raymond,
+
+Thanks for taking the time to chat with me today. On behalf of Google, I'm thrilled to invite you to skip the technical phone interview and move directly to onsite interviews!
+___
+Hi Raymond,
+
+It was great speaking with you today and I’m excited that you’ll be interviewing at Google Los Angeles. As discussed, I’m sending you a few materials to help you prepare for your interviews. Please also send 3-4 dates that would work for your interview.
+
+Get ready
+
+I suggest starting with the "How We Hire" section of our Careers site, and then doing some practice problems (found in the attached prep doc) in a 45-minute window to get comfortable with the pace of the interviews. Consider utilizing our Google Champions Program (http://bit.ly/connect-with-a-google-champion), which connects you with a Googler for a phone call to hear about their experience working at Google. If you’re interested in having a call before for your interviews, please let me know 1) what you'd like to discuss and 2) you're availability for a call, and I'll get it scheduled!
+
+How We Hire (https://careers.google.com/how-we-hire/)
+
+Example Engineering Interview (https://www.youtube.com/watch?v=XKu_SEDAykw&feature=youtu.be).
+[By Raymond: See my 4 Ruby solutions to this sample Google interview: https://github.com/rayning0/codility/blob/master/google_interview.rb]
+
+Prepare for your Google Interview: Coding (https://www.youtube.com/watch?v=6ZZX9iIgFoo&list=PLllx_3tLoo4c_aR8RKOOnizL5LiUH02YF&index=13&t=0s)
+
+Prepare for a Google Engineering Interview (https://www.youtube.com/watch?v=ko-KkSmp-Lk)
+
+Prepare for your Google Interview: Systems Design (https://www.youtube.com/watch?v=Gg318hR5JY0&list=PLllx_3tLoo4c_aR8RKOOnizL5LiUH02YF&index=11&t=18s)
+
+I have also attached a few documents to help you prepare for your interviews (make sure to check out the blue links at the bottom of the pdfs).
+
+Get excited
+
+You’re going to spend the day solving interesting problems in collaboration with a group of awesome interviewers. A Googler will also host you for an hour long lunch at one of our cafes on campus. Remember, lunch is not an interview, but rather a chance to relax and speak to a Googler about their experience working here, and tour Google Los Angeles.
+
+Don’t stress the details
+
+Google is a casual place. Arrive prepared, wear something that makes you feel comfortable and confident, and bring your questions! Our interviewers will be happy to share their insights.
+
+Additional questions?
+
+I’m here as a resource to help you prepare. Please reach out if there’s anything you need.

@@ -1,0 +1,46 @@
+Hi Raymond,
+I hope all is well! It was wonderful to talk to you about your experience, opportunities at Google, and where you see your career headed.
+
+Next Steps
+
+To get you set up for your interview, please reply with the following - (1) your interview availability (please send 5-10 days with a time frame) . Once you've replied, I can submit your interview availability. After that, you will receive an email from one of my colleagues setting up the day and time of this call.
+
+As we discussed, the first step is a 45-minute phone interview with an engineer who will present coding problems to you via a shared Google doc. The interviewer will be evaluating your:
+
+- Coding ability in JavaScript
+- Problem solving & communication skills
+- Your knowledge of data structures & algorithms
+
+Interview Preparation
+
+Here are a few helpful resources that engineers have shared with us:
+
+Interview Prep (attached): Includes links, a video, and also a few practice problems
+1. Practice Your Code
+- Project Euler (https://projecteuler.net/)
+- HackerRank (https://www.hackerrank.com/)
+- LeetCode (https://leetcode.com/)
+- Practice coding in a Google Doc (https://www.quora.com/What-are-some-tips-for-practicing-coding-on-google-docs-for-a-phone-screen)
+
+2. Data Structures and Algorithms
+- Data Structures and Algorithms (https://apps2.mdp.ac.id/perpustakaan/ebook/Karya%20Umum/Dsa.pdf)
+- 500 Data Structures and Algorithms (https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions?share=1&utm_medium=email&utm_source=hackernewsletter&utm_term=code)
+- Top 10 Algos in Interview Questions (http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+- Big-O Cheat Sheet (http://bigocheatsheet.com/)
+
+3. General Interview Prep
+- Sys Design (https://github.com/checkcheckzz/system-design-interview)
+- High Scalability (http://highscalability.squarespace.com/)
+- GeeksforGeeks (http://www.geeksforgeeks.org/)
+- Interview Puzzles (http://www.geeksforgeeks.org/category/puzzles/)
+- Practice Problems - Google Focused (http://practice.geeksforgeeks.org/company/Google)
+
+4. "Life at Google" Video Series
+- Overview of the Hiring Process (https://www.youtube.com/watch?v=k-baHBzWe4k)
+- Preparing for a Google Engineering Interview (https://www.youtube.com/watch?v=ko-KkSmp-Lk)
+- System Design (https://youtu.be/Gg318hR5JY0)
+
+- Mock Coding/Engineering Interview (https://www.youtube.com/watch?v=XKu_SEDAykw&t=652s)
+[By Raymond: See my 4 Ruby solutions to this sample Google interview: https://github.com/rayning0/codility/blob/master/google_interview.rb]
+
+If you have any questions or concerns in the meantime, please don't hesitate to reach out.
